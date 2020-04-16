@@ -1,0 +1,95 @@
+body {
+  width: 1024px;
+  height: 1024px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: #f6f4f4;
+  font-family: 'Myriad Pro', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+/* Content */
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.content {
+  margin-left: 260px;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.first-text {
+  margin: 18px 0px;
+  color: gray;
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  
+}
+
+.text-block {
+  margin: 18px 0px;
+}
+
+.zagolovok {
+  font-family: 'Myriad Pro', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.image {
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #999999;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.entry-rating {
+  font-family: 'Myriad Pro', sans-serif;
+  float: left;
+  font-weight: bold;
+}
+
+.button {
+  margin-top: 0px;
+}
+
+.text-osnova {
+  padding-left: 40px;
+}
+
+.url {
+  font-style: italic;
+}
+
+.polevvoda {
+  height: 108px;
+  min-height: 108px;
+  min-width: 306px;
+  max-width: 540px;
+  color: #333;
+  box-shadow: inset 0px 2px 8px rgba(32, 74, 96, 0.2), 0px 0px 3px white;
+  -moz-box-shadow: inset 0px 2px 8px hsla(200, 50%, 25%, 0.2), 0px 0px 3px white;
+  -webkit-box-shadow: inset 0px 2px 8px rgba(32, 74, 96, 0.2), 0px 0px 3px white;
+  -webkit-transition: all 200ms;
+  -moz-transition: all 200ms;
+  -ms-transition: all 200ms;
+  -o-transition: all 200ms;
+  transition: all 200ms;
+  padding: 3px !important;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
